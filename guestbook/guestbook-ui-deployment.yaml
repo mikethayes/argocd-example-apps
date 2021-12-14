@@ -13,6 +13,7 @@ spec:
       labels:
         app: guestbook-ui
         demo: new-demo
+        label1: yes
     spec:
       containers:
       - image: gcr.io/heptio-images/ks-guestbook-demo:0.2
